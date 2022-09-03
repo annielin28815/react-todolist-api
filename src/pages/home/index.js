@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Outlet } from 'react-router-dom';
 
 import logo from '../../assets/images/logo.png';
-import workImg from '../../assets/images/workImg.png';
+import working from '../../assets/images/working.png';
 
 const Home = () => {
     return (
@@ -12,7 +12,7 @@ const Home = () => {
                     <a href='#'>
                         <img className='logoImg' src={logo} alt='LogoImg' />
                     </a>
-                    <img className='d-m-n' src={workImg} alt='workImg' />
+                    <img className='d-m-n' src={working} alt='workImg' />
                 </div>
                 <Outlet />
             </div>
