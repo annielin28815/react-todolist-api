@@ -1,5 +1,5 @@
-# 六角學院 React 新手讀書會任務
-Demo url&#9755; [React-TodoList](https://annielin28815.github.io/react-todolist-page/)
+# 六角學院 React 讀書會 - React & API 整合證書任務
+Demo url&#9755; [React-TodoList](https://annielin28815.github.io/react-todolist-api/)
 
 ## 完成功能說明
 
