@@ -1,3 +1,5 @@
+import React , { Component } from 'react';
+
 const FormInput = ({ item, register, errors }) => {
   const { type, id, placeholder, verify, labelText } = item;
   return (

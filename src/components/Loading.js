@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import React , { Component } from 'react';
 
 import styled from '@emotion/styled';
 

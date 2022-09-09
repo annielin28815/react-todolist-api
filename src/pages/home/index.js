@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import React , { Component } from 'react';
 import { Outlet } from 'react-router-dom';
 
 import logo from '../../assets/images/logo.png';

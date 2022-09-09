@@ -1,5 +1,5 @@
 import { useState } from 'react';
-
+import React , { Component } from 'react';
 import { NavLink } from 'react-router-dom';
 
 import { useForm } from 'react-hook-form';
