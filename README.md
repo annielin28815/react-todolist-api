@@ -1,8 +1,8 @@
 # 六角學院 React 讀書會 - React & API 整合證書任務
 Demo url&#9755; [React-TodoList](https://annielin28815.github.io/react-todolist-api/)
+![todolist](https://i.imgur.com/0FG8udV.png)
 
 ## 完成功能說明
-
 &#10004; 需使用 React 框架來挑戰，並整合此任務提供的 API</br>
 &#10004; 需使用 React Router，並統一部署到 GitHub Pages</br>
 &#10004; 代辦為零筆資料時，需顯示文字「目前尚無代辦事項」</br>
@@ -15,7 +15,6 @@ Demo url&#9755; [React-TodoList](https://annielin28815.github.io/react-todolist-
 &#10004; 登入、註冊 API 功能</br>
 &#10004; 表單欄位為空值或非 Email 格式時，需提醒用戶。(例：alert 彈跳、紅色文字顯示、SweetAlert2)</br>
 &#10004; 需處理重複帳號註冊時， API 回傳錯誤時，需提醒用戶。(例：alert 彈跳、紅色文字顯示、SweetAlert2)</br>
-
 
 ## 使用技術
 &#10000;React.js</br>
